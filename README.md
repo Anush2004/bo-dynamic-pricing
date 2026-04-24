@@ -3,5 +3,5 @@ Official codebase for “Bayesian Optimization for Dynamic Pricing and Learning.
 
 Have all the code snippets used in the paper and other comparision algorithms.
 
-For any doubts, please contact me on `anushanand100@gmail.com`
+For any doubts, you can raise issue or contact me on `anushanand100@gmail.com`. Will reply back with a slight delay. 
 Thank You
